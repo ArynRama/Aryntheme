@@ -10,3 +10,11 @@
     --rs-large-width: 2.5px;
     --rs-avatar-shape: 50%;
 }
+
+/* Horizontal Serverlist */ 
+@import url('https://discordstyles.github.io/HorizontalServerList/base.css');
+
+:root {
+    --HSL-server-icon-size: 42px;
+    --HSL-server-spacing: 11px;
+}
