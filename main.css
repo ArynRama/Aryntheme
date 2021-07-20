@@ -8,10 +8,5 @@
     --rs-small-width: 2px;
     --rs-medium-width: 2.5px;
     --rs-large-width: 2.5px;
-    --rs-avatar-shape: 50%;
-    --rs-online-color: #00ffffff;
-    --rs-idle-color: #ff5d00;
-    --rs-dnd-color: #ff0000;
-    --rs-offline-color: #003669;
-    --rs-streaming-color: #6f00ff;
+    --rs-avatar-shape: 40%;
 }
