@@ -1,8 +1,5 @@
 /* This part causes the circular online status */
 @import url('https://discordstyles.github.io/RadialStatus/base.css');
-/* Horizontal Serverlist*/
-@import url('https://discordstyles.github.io/HorizontalServerList/base.css');
-
 :root {
     --rs-small-spacing: 2px;
     --rs-medium-spacing: 2px;
@@ -11,8 +8,5 @@
     --rs-medium-width: 2.5px;
     --rs-large-width: 2.5px;
     --rs-avatar-shape: 50%;
-    --HSL-server-icon-size: 42px;
-    --HSL-server-spacing: 11px;
-    --HSL-size: 35px;
-    --HSL-spacing: 10px;
+    --rs-online-color: #0000ffff;
 }
