@@ -1,18 +1,7 @@
-/* This part causes the circular online status */
-@import url('https://discordstyles.github.io/RadialStatus/base.css');
 @import url(arynrama.github.io/Aryntheme/base.css);
-:root {
-    --rs-small-spacing: 2px;
-    --rs-medium-spacing: 2px;
-    --rs-large-spacing: 2px;
-    --rs-small-width: 2px;
-    --rs-medium-width: 2.5px;
-    --rs-large-width: 2.5px;
-    --rs-avatar-shape: 50%;
-}
 
 :root {
-    --background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pornhub.com%2Fgay%2Fvideo%2Fsearch%3Fsearch%3Dchastity&psig=AOvVaw0HJ6SohEYf7_yrWtE0FYM_&ust=1626898216065000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCPDKpLq68vECFQAAAAAdAAAAABAG);
+    
     --background-image-blur: 0px;
     --background-image-size: cover;
     --background-image-position: center;
