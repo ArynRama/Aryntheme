@@ -75,7 +75,9 @@
     --deprecated-text-input-prefix: #dcddde;
     --text-link: var(--link-colour);
   }
-  
+  #bd-pub-button {
+    background-color: var(--gradient);
+  }
   #app-mount:before {
     content: "";
     background: var(--background-image);
