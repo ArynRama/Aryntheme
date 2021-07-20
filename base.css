@@ -1,4 +1,4 @@
-:root {, 
+:root { 
     --TB-top: calc(var(--server-container) + var(--window-padding));
     --TB-tr-roundness: var(--window-roundness);
     --TB-position-top: var(--TB-top, var(--window-padding));
@@ -8,10 +8,10 @@
     --white: rgba(255,255,255,0.05);
     --white-double: rgba(255,255,255,0.1);
     --white-triple: rgba(255,255,255,0.15);
-    --gradient: linear-gradient(var(--gradient-direction), rgb(var(--gradient-primary)), rgb(var(--gradient-secondary)), rgb(var(--gradient-third)), rgb(var(--gradient-fourth)), rgb(var(--gradient-fifth)), rgb(var(--gradient-six)));
+    --gradient: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.6), rgba(var(--gradient-secondary), 0.6), rgba(var(--gradient-third), 0.6), rgba(var(--gradient-fourth), 0.6), rgba(var(--gradient-fifth), 0.6), rgba(var(--gradient-six), 0.6));
     --gradient-20: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.2), rgba(var(--gradient-secondary), 0.2), rgba(var(--gradient-third), 0.2), rgba(var(--gradient-fourth), 0.2), rgba(var(--gradient-fifth), 0.2), rgba(var(--gradient-six), 0.2));
     --gradient-50: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.3), rgba(var(--gradient-secondary), 0.3), rgba(var(--gradient-third), 0.3), rgba(var(--gradient-fourth), 0.3), rgba(var(--gradient-fifth), 0.3), rgba(var(--gradient-six), 0.3));
-    --gradient-90: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.9), rgba(var(--gradient-secondary), 0.4), rgba(var(--gradient-third), 0.4), rgba(var(--gradient-fourth), 0.4), rgba(var(--gradient-fifth), 0.4), rgba(var(--gradient-six), 0.4));
+    --gradient-90: linear-gradient(var(--gradient-direction), rgba(var(--gradient-primary), 0.4), rgba(var(--gradient-secondary), 0.4), rgba(var(--gradient-third), 0.4), rgba(var(--gradient-fourth), 0.4), rgba(var(--gradient-fifth), 0.4), rgba(var(--gradient-six), 0.4));
     --text-shadow: 1;
     --chat-embed: var(--background-secondary);
     --discord-green: 67,181,129;
