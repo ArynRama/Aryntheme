@@ -12,6 +12,7 @@
   }
   .platform-win .winButton-iRh8-Z {
     position: relative;
+    top: 1px;
     right: var(--TB-position-right, 0px);
     height: var(--TB-height, 48px);
     width: var(--TB-width, 40px);
