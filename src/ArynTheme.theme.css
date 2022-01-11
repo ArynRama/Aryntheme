@@ -9,7 +9,7 @@
 
 @import url('https://arynrama.github.io/Aryntheme/src/base.css');
 @import url('https://arynrama.github.io/Aryntheme/src/HSL.css');
-@import url('https://arynrama.github.io/Aryntheme/src/RadialStatus.css');
+@import url('https://github.com/DiscordStyles/RadialStatus/blob/master/src/main.scss');
 @import url('https://arynrama.github.io/Aryntheme/src/windowbar.css');
 /* Settings */
 :root {
