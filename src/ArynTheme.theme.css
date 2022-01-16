@@ -7,25 +7,18 @@
  * @authorId 419848392223621120
 */
 
-@import url('https://arynrama.github.io/Aryntheme/src/base.css');
 @import url('https://arynrama.github.io/Aryntheme/src/HSL.css');
-@import url('https://github.com/DiscordStyles/RadialStatus/blob/master/src/main.scss');
+@import url('https://arynrama.github.io/Aryntheme/src/RadialStatus.css');
 @import url('https://arynrama.github.io/Aryntheme/src/windowbar.css');
 /* Settings */
 :root {
-    --rs-online-color: #00ffffff;
+    --rs-online-color:  #00ffffff;
     --rs-idle-color:  #ff6f00;
-    --rs-dnd-color: #ff0000;
-    --rs-offline-color: #003669;
-    --rs-streaming-color: #6f00ff;
-    --rs-phone-color: #0000ff;
-    --background-image: url(https://arynrama.github.io/Aryntheme/src/default_background.png);
-    --gradient-primary: 255,0,0;
-    --gradient-secondary: 255,127,0;
-    --gradient-third: 255,255,0;
-    --gradient-fourth: 0,255,0;
-    --gradient-fifth: 0,0,255;
-    --gradient-six: 255,0,127;
+    --rs-dnd-color:  #ff0000;
+    --rs-offline-color:  #003669;
+    --rs-streaming-color:  #6f00ff;
+    --rs-invisible-color:  #80f0ff;
+    --rs-phone-color:  #00ff00;
 }
 /* Settings - a*/
 :root {
@@ -33,29 +26,6 @@
     --HSL-server-icon-size: 42px;
     --HSL-size: 35px;
     --HSL-spacing: 10px;
-    --background-image-blur: 0px;
-    --background-image-size: cover;
-    --background-image-position: center;
-    --popout-modal-image: transparent;
-    --popout-modal-blur: 27px;
-    --popout-modal-size: contain;
-    --popout-modal-position: center;
-    --home-button-size: contain;
-    --home-button-position: center;
-    --serverlist-brightness: 0.9;
-    --left-brightness: 0.68;
-    --middle-brightness: 0.44;
-    --right-brightness: 0.22;
-    --popout-modal-brightness: 0.76;
-    --link-colour: #007F8B;
-    --scrollbar-colour: rgb(120,121,121,0.18);
-    --gradient-direction: 90deg;
-    --tint-colour: 0,0,0;
-    --tint-brightness: 0.2;
-    --window-padding: 2px;
-    --window-roundness: 0px;
-    --show-gift-gif-buttons: none;
-    --update-notice-1: none;
     --rs-small-spacing: 2px; 
     --rs-medium-spacing: 3px; 
     --rs-large-spacing: 4px; 
