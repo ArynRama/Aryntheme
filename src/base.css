@@ -1583,7 +1583,7 @@ input::-webkit-input-placeholder {
   color: var(--app-accent-text); }
 
 .numberBadge-37OJ3S {
-  background-color: rgba(var(--app-accent-rgb), var(--app-accent-opacity)) !important;
+  background-color: rgba(255, 0, 230, var(--app-accent-opacity)) !important;
   background-image: var(--app-accent-image);
   color: var(--app-accent-text); }
 
